@@ -5,8 +5,7 @@
 VAR
 	a:INT;
 	b:INT;
-	c:INT;
-	d:int;
+	c:int;
 END_VAR
 ]]></Declaration>
     <Implementation>
