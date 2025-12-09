@@ -4,8 +4,7 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	a:INT;
-	b:INT;
-	c:int;
+	b:int;
 END_VAR
 ]]></Declaration>
     <Implementation>
