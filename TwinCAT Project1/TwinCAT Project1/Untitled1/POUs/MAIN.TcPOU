@@ -10,7 +10,7 @@ VAR
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[]]></ST>
+      <ST><![CDATA[a:=b+c+e;]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
